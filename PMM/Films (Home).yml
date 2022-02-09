@@ -1,0 +1,97 @@
+###############################################################################
+#####                         FILMS (HOME) LIBRARY                        #####
+###############################################################################
+#
+#
+##### METADATA #####
+metadata:
+#
+### Aliens Films
+  Alien:
+    sort_title: Alien 1
+  Aliens:
+    sort_title: Alien 2
+  Alien³:
+    sort_title: Alien 3
+  Alien Resurrection:
+    sort_title: Alien 4
+#
+### Lord of the Rings Films
+  "The Lord of the Rings: The Fellowship of the Ring":
+    sort_title: Lord of the Rings 1
+  "The Lord of the Rings: The Two Towers":
+    sort_title: Lord of the Rings 2
+  "The Lord of the Rings: The Return of the King":
+    sort_title: Lord of the Rings 3
+#
+### Millenium Trilogy Films
+  The Girl with the Dragon Tattoo:
+    sort_title: Girl with the Dragon Tattoo 1
+  The Girl Who Played with Fire:
+    sort_title: Girl with the Dragon Tattoo 2
+  The Girl Who Kicked the Hornets' Nest:
+    sort_title: Girl with the Dragon Tattoo 3
+#
+### Mission Impossible Films
+  "Mission: Impossible":
+    sort_title: "Mission: Impossible 1"
+  "Mission: Impossible II":
+    sort_title: "Mission: Impossible 2"
+  "Mission: Impossible III":
+    sort_title: "Mission: Impossible 3"
+  "Mission: Impossible - Rogue Nation":
+    sort_title: "Mission: Impossible 5"
+  "Mission: Impossible - Fallout":
+    sort_title: "Mission: Impossible 6"
+#
+### Ocean's Films
+  "Ocean's Eleven":
+    sort_title: "Ocean's Eleven 1"
+  "Ocean's Twelve":
+    sort_title: "Ocean's Eleven 2"
+  "Ocean's Thirteen":
+    sort_title: "Ocean's Eleven 3"
+#
+### Cirque du Soleil
+  Alegria:
+    alt_title: "Alegria: Cirque du Soleil"
+    year: 2001
+    sort_title: Alegria
+    collection: Cirque du Soleil Collection
+  Dralion:
+    alt_title: "Cirque du Soleil: Dralion"
+    year: 2001
+    sort_title: Dralion
+    collection: Cirque du Soleil Collection
+  La Nouba:
+    alt_title: "Cirque du Soleil: La Nouba"
+    year: 2004
+    sort_title: La Nouba
+    collection: Cirque du Soleil Collection
+  Saltimbanco:
+    year: 1997
+    collection: Cirque du Soleil Collection
+#
+#
+#
+##### COLLECTIONS #####
+#
+collections:
+  James Bond Collection:
+    tmdb_collection: https://www.themoviedb.org/collection/645
+  Wallace & Gromit Collection:
+    imdb_list: https://www.imdb.com/search/keyword/?keywords=wallace-and-gromit&ref_=kw_ref_typ&sort=moviemeter,asc&mode=detail&page=1&title_type=short%2Cmovie
+  Minions Shorts Collection:
+    imdb_list: https://www.imdb.com/list/ls022017232/
+    #collection_mode: hide_items
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  

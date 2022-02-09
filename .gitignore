@@ -1,0 +1,5 @@
+logs
+overlays
+config.yml
+config.cache
+.DS_Store
