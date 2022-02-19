@@ -6,7 +6,7 @@ This script is designed to produce results as close to those produced by Plex it
 
 ### Usage
 
-plex-required-bitrate.py FILE
+`plex-required-bitrate.py FILE`
 
 A list of additional options can be found in the help message accessed by running `plex-required-bitrate.py --help`.
 
