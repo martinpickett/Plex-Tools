@@ -83,7 +83,10 @@ collections:
     imdb_list: https://www.imdb.com/search/keyword/?keywords=wallace-and-gromit&ref_=kw_ref_typ&sort=moviemeter,asc&mode=detail&page=1&title_type=short%2Cmovie
   Minions Shorts Collection:
     imdb_list: https://www.imdb.com/list/ls022017232/
-    #collection_mode: hide_items
+  Cirque du Soleil Collection:
+    plex_search:
+      type: movies
+      collection: Cirque du Soleil Collection
     
     
     
