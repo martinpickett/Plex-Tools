@@ -104,7 +104,6 @@ def bisection_method(frames, fps, buffer, t_remove):
 
 # Returns max buffer size in bits (this will always be an integer value)
 def calculate_buffer_size(frames, rate, fps, t_remove):
-	# maximum download rate (maxrate) in bits per second
 	
 	# Two lists, initial arrival times and final arrival times
 	t_arrive_i = [t - s/rate for t, s in zip(t_remove, frames)]
@@ -115,6 +114,8 @@ def calculate_buffer_size(frames, rate, fps, t_remove):
 		if t_arrive_i[i] < t_arrive_f[i-1]:
 			t_arrive_i[i-1] = t_arrive_i[i] - frames[i-1]/rate
 			t_arrive_f[i-1] = t_arrive_i[i]
+		else:
+			t_arrive_i[i] = t_arrive_f[i-1]
 	
 	# If we have moved first initial arrival time -'ve then stream invalid
 	if t_arrive_i[0] < 0:
