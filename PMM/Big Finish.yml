@@ -1,0 +1,279 @@
+###############################################################################
+#####                          BIG FINISH LIBRARY                         #####
+###############################################################################
+#
+#
+##### COLLECTIONS #####
+#
+collections:
+    5th Doctor:
+        sync_mode: sync
+        collection_level: album
+        sort_title: "05"
+        plex_search:
+            type: albums
+            sort_by: release.asc
+            any:
+                album_title.is: 
+                    - The Eye of the Scorpion
+                    - The Church and the Crown
+                    - No Place Like Home
+                    - Nekromanteia
+                    - The Axis of Insanity
+                    - The Roof of the World
+                    - Three's a Crowd
+                    - The Council of Nicaea
+                    - The Kingmaker
+                    - Son of the Dragon
+                    - The Mind's Eye
+                    - Mission of the Viyrans
+                    - The Bride of Peladon
+    5 & Peri:
+        sync_mode: sync
+        collection_level: album
+        sort_title: 05 & Peri
+        plex_search:
+            type: albums
+            sort_by: release.asc
+            any:
+                album_title.is: 
+                    - The Eye of the Scorpion
+                    - The Church and the Crown
+                    - Nekromanteia
+                    - The Axis of Insanity
+                    - The Roof of the World
+                    - Three's a Crowd
+                    - The Council of Nicaea
+                    - The Kingmaker
+                    - Son of the Dragon
+                    - The Mind's Eye
+                    - Mission of the Viyrans
+                    - The Bride of Peladon
+    5 & Erimem:
+        sync_mode: sync
+        collection_level: album
+        sort_title: 05 & Erimem
+        plex_search:
+            type: albums
+            sort_by: release.asc
+            any:
+                album_title.is: 
+                    - The Eye of the Scorpion
+                    - The Church and the Crown
+                    - No Place Like Home
+                    - Nekromanteia
+                    - The Axis of Insanity
+                    - The Roof of the World
+                    - Three's a Crowd
+                    - The Council of Nicaea
+                    - The Kingmaker
+                    - Son of the Dragon
+                    - The Mind's Eye
+                    - The Bride of Peladon
+    Peri & Erimem:
+        sync_mode: sync
+        collection_level: album
+        plex_search:
+            type: albums
+            sort_by: release.asc
+            any:
+                album_title.is: 
+                    - The Eye of the Scorpion
+                    - The Church and the Crown
+                    - Nekromanteia
+                    - The Axis of Insanity
+                    - The Roof of the World
+                    - Three's a Crowd
+                    - The Council of Nicaea
+                    - The Veiled Leopard
+                    - The Kingmaker
+                    - Son of the Dragon
+                    - The Mind's Eye
+                    - The Bride of Peladon
+    6th Doctor:
+        sync_mode: sync
+        collection_level: album
+        sort_title: "06"
+        plex_search:
+            type: albums
+            sort_by: release.asc
+            any:
+                album_title.is: 
+                    - Arrangements for War
+                    - Medicinal Purposes
+                    - Thicker Than Water
+                    - Pier Pressure
+                    - The Nowhere Place
+                    - 100
+                    - Voyage to Venus
+                    - Voyage to the New World
+    7th Doctor:
+        sync_mode: sync
+        collection_level: album
+        sort_title: "07"
+        plex_search:
+            type: albums
+            sort_by: release.asc
+            any:
+                album_title.is: 
+                    - The Harvest
+                    - Dreamtime
+                    - Live 34
+                    - Night Thoughts
+                    - The Settling
+                    - No Man's Land
+                    - Nocturne   
+    8th Doctor:
+        sync_mode: sync
+        collection_level: album
+        sort_title: "08"
+        plex_search:
+            type: albums
+            sort_by: release.asc
+            any:
+                album_title.is: 
+                    - Storm Warning
+                    - Sword of Orion
+                    - The Stones of Venice
+                    - Minuet in Hell
+                    - Invaders from Mars
+                    - The Chimes of Midnight
+                    - Seasons of Fear
+                    - Embrace the Darkness
+                    - The Time of the Daleks
+                    - Neverland
+                    - Zagreus
+                    - Living Legend
+                    - Scherzo
+                    - The Creed of the Kromon
+                    - The Natural History of Fear
+                    - The Twilight Kingdom
+                    - Faith Stealer
+                    - The Last
+                    - Caerdroia
+                    - The Next Life
+                    - Terror Firma
+                    - Scaredy Cat
+                    - Other Lives
+                    - Time Works
+                    - Something Inside
+                    - Memory Lane
+                    - Absolution
+                    - The Girl Who Never Was
+                    - The Company of Friends
+                    - The Silver Turk
+                    - The Witch from the Well
+                    - Army of Death
+                    - The Great War
+                    - Fugatives
+                    - Tangled Web
+                    - X and the Daleks
+                    - The Traitor
+                    - The White Room
+                    - Time's Horizon
+                    - Eyes of the Master 
+    8 & Charley:
+        sync_mode: sync
+        collection_level: album
+        sort_title: 08 & Charley
+        plex_search:
+            type: albums
+            sort_by: release.asc
+            any:
+                album_title.is: 
+                    - Storm Warning
+                    - Sword of Orion
+                    - The Stones of Venice
+                    - Minuet in Hell
+                    - Invaders from Mars
+                    - The Chimes of Midnight
+                    - Seasons of Fear
+                    - Embrace the Darkness
+                    - The Time of the Daleks
+                    - Neverland
+                    - Zagreus
+                    - Living Legend
+                    - Scherzo
+                    - The Creed of the Kromon
+                    - The Natural History of Fear
+                    - The Twilight Kingdom
+                    - Faith Stealer
+                    - The Last
+                    - Caerdroia
+                    - The Next Life
+                    - Terror Firma
+                    - Scaredy Cat
+                    - Other Lives
+                    - Time Works
+                    - Something Inside
+                    - Memory Lane
+                    - Absolution
+                    - The Girl Who Never Was
+    8 & C'rizz:
+        sync_mode: sync
+        collection_level: album
+        sort_title: 08 & C'rizz
+        plex_search:
+            type: albums
+            sort_by: release.asc
+            any:
+                album_title.is: 
+                    - The Creed of the Kromon
+                    - The Natural History of Fear
+                    - The Twilight Kingdom
+                    - Faith Stealer
+                    - The Last
+                    - Caerdroia
+                    - The Next Life
+                    - Terror Firma
+                    - Scaredy Cat
+                    - Other Lives
+                    - Time Works
+                    - Something Inside
+                    - Memory Lane
+                    - Absolution
+    Charley & C'rizz:
+        sync_mode: sync
+        collection_level: album
+        plex_search:
+            type: albums
+            sort_by: release.asc
+            any:
+                album_title.is: 
+                    - The Creed of the Kromon
+                    - The Natural History of Fear
+                    - The Twilight Kingdom
+                    - Faith Stealer
+                    - The Last
+                    - Caerdroia
+                    - The Next Life
+                    - Terror Firma
+                    - Scaredy Cat
+                    - Other Lives
+                    - Time Works
+                    - Something Inside
+                    - Memory Lane
+                    - Absolution
+    10th Doctor:
+        sync_mode: sync
+        collection_level: album
+        sort_title: "10"
+        plex_search:
+            type: albums
+            sort_by: release.asc
+            any:
+                album_title.is: 
+                    - Technophobia
+                    - Time Reaver
+                    - Death and the Queen
+   
+    
+    
+    
+    
+
+    
+    
+    
+    
+  
